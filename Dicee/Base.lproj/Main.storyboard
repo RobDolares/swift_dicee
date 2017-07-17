@@ -29,7 +29,7 @@
                                 <rect key="frame" x="40" y="28" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dice1" translatesAutoresizingMaskIntoConstraints="NO" id="DMa-1z-5pt">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="dice2" translatesAutoresizingMaskIntoConstraints="NO" id="DMa-1z-5pt">
                                 <rect key="frame" x="177" y="225" width="110" height="110"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -64,6 +64,7 @@
     </scenes>
     <resources>
         <image name="dice1" width="128" height="128"/>
+        <image name="dice2" width="64" height="64"/>
         <image name="diceeLogo" width="294" height="192"/>
         <image name="newbackground" width="500" height="466"/>
     </resources>
